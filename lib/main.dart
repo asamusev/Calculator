@@ -108,7 +108,7 @@ class _ResultatsState extends State<Resultats> {
         body: Row(
          mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text(this.widget.string, style: TextStyle(fontSize: 46),
+              Text(this.widget.string, style: TextStyle(fontSize: 50),
               )
             ],
           ), 
